@@ -26,7 +26,7 @@ The technic is based on the **1bit textile** developed by [Irene Posch](http://w
 
 *Plane linearly polarized wave (E = electric field axis and B = magetic field axis).*
 
-### How to make an electromagnet ?
+## How to make an electromagnet ?
 
 To build an electromagnet, you need to create a coil inside which the electric current will runs. The electrically charged particles running in loop produce a magnetic field that can attract a piece of metal or an other element with a magnetic field (magnet or electromagnet). 
 
@@ -37,7 +37,16 @@ So you'll need a [source of electricity](https://dicksondata.com/wp-content/uplo
 
 *Wrapping process on around a silver ring*
 
-<img src=images/schematicCoilBead.png height="567px">
+<img src=images/schematicCoilBead-150.png>
 
 *Schematic of the circuit*
 
+## Turning it into a 1bit jewelry
+
+Here some examples of experimentations of jewelry integrating coil with copper wire. This modules are using a [hematite magnetic bead](https://www.crystal-creative.com/de/magnetperle-rund-10mm-jet-hematite.html).
+
+ <img src=images/coilSilver2.jpg>
+
+<img src=images/coilSilver3.jpg>
+
+<img src=images/coilSilver4.jpg>
