@@ -37,7 +37,7 @@ So you'll need a [source of electricity](https://dicksondata.com/wp-content/uplo
 
 *Wrapping process on around a silver ring*
 
-<img src=images/schematicCoilBead.png height="567">
+<img src=images/schematicCoilBead.png height="567px">
 
 *Schematic of the circuit*
 
