@@ -32,8 +32,12 @@ To build an electromagnet, you need to create a coil inside which the electric c
 
 So you'll need a [source of electricity](https://dicksondata.com/wp-content/uploads/2019/06/R007.jpg), a [insulted copper wire](https://docs.rs-online.com/817a/0900766b81292580.pdf) and a piece to wrap the cable around. 
 
+
 <img src=images/coilSilver.jpg>
+
+*Wrapping process on around a silver ring*
 
 <img src=images/schematicCoilBead.png>
 
+*Schematic of the circuit*
 
