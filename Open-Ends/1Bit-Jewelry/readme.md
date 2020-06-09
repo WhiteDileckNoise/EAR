@@ -50,3 +50,5 @@ Here some examples of experimentations of jewelry integrating coil with copper w
 <img src=images/coilSilver3.jpg>
 
 <img src=images/coilSilver4.jpg>
+
+<img src=images/coilSilver5.jpg>
