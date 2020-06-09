@@ -2,10 +2,6 @@
 
 ***
 
-This section will introduces the idea of **1bit jewelry**. 
-
-***
-
 The **1bit jewelry** is a tool from the **Open Ends** project of [Hannah Perner-Wilson](https://www.plusea.at/?page_id=1605), [Irene Posch](http://www.ireneposch.net/) and [Martin De Bie](http://martindebie.com/). This project aims to explore the possible combinations between the **craftsmanship of jewellery** and the **conception of electronic objects**. We use the **1bit jewelry** as a technical principle to create artefacts of speculative stories.
 
 The technic is based on the **1bit textile** developed by [Irene Posch](http://www.ireneposch.net/) and [Ebru Kurbak](https://ebrukurbak.net/). The process consists of creating an **electromagnetic field** thanks to a **coil** made of conducting wire through which an **electric current** flows. This coil is then confronted to a **magnet** which, depending on the direction of the coil current, will be attracted or repelled. Simple rotation movements are then created, like a pixel with two visual states. 
@@ -32,4 +28,12 @@ The technic is based on the **1bit textile** developed by [Irene Posch](http://w
 
 ### How to make an electromagnet ?
 
-In an electromagnet, an electric current runs through a piece of metal and creates a magnetic field. To create a simple electromagnet, you'll need a source of electricity, a conductor, and metal. Wrap insulated copper wire tightly around a tube before connecting the wire to a battery, and watch as your new electromagnet picks up small metal objects. 
+To build an electromagnet, you need to create a coil inside which the electric current will runs. The electrically charged particles running in loop produce a magnetic field that can attract a piece of metal or an other element with a magnetic field (magnet or electromagnet). 
+
+So you'll need a [source of electricity](https://dicksondata.com/wp-content/uploads/2019/06/R007.jpg), a [insulted copper wire](https://docs.rs-online.com/817a/0900766b81292580.pdf) and a piece to wrap the cable around. 
+
+<img src=images/coilSilver.jpg>
+
+<img src=images/schematicCoilBead.png>
+
+
