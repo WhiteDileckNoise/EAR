@@ -13,9 +13,10 @@ During a first four-day exchange in the [Volksluxus workshop](https://volksluxus
 
 At each step, the possibilities of integrating electronics have been examined, how to make these **artefacts sensitive**, **interactive**. Because silver is a very good electrical conductor, the possibilities to re-imagining the shape of an **electronic circuit** are multiple.
 
-<img src=images/gustaveTrouve.jpg> 
+<img src=images/peterVogel.jpg> 
 
-*Electric Jewels, Gustave Trouvé, 1865*
+*Change of pace, [Peter Vogel](https://fr.wikipedia.org/wiki/Peter_Vogel_(artiste)) , 2010*
+photocell, loudspeaker, electronic components, 54 x 61 cm
 
 After the first few days, the general exploration turned around the notion of **communication**. Jewels are already an element of communication in a way but could it generate a **new paradigm of exchange**. A system that could bring a **non-verbal** or **non-written** transcription, a simplified, **binary language**, combining emotions to a singular connection with a close person. 
 

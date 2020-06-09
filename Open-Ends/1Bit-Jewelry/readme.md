@@ -52,3 +52,13 @@ Here some examples of experimentations of jewelry integrating coil with copper w
 <img src=images/coilSilver4.jpg>
 
 <img src=images/coilSilver5.jpg>
+
+## speculative artefact
+
+The next step would be to propose to jewellery craftsmen to experience this hybrid production. By integrating the 1bit jewelry technic, they will  imagine new type of communication devices. Jewels are already an element of communication in a way but could it generate a new paradigm of exchange. A system that could bring a non-verbal or non-written transcription, a simplified, binary language, combining emotions to a singular connection with a close person. This artefact will be the representation of a plausible evolution of their practice.
+
+<img src=images/gustaveTrouve.jpg> 
+
+*Electric Jewels, [Gustave Trouvé](https://en.wikipedia.org/wiki/Gustave_Trouv%C3%A9), 1865*
+
+
