@@ -26,6 +26,6 @@ This first phase allowed us to imagine a **speculative scenario** in which part 
 *Illustration from [Hannah Perner-Wilson](https://www.plusea.at/?page_id=1605)* 
 
 
-We began to experiment with small modules based on the **1bit technique** which is described in the [next section]().  
+We began to experiment with small modules based on the **1bit technique** which is described in the [next section](https://github.com/WhiteDileckNoise/EAR/tree/master/Open-Ends/1Bit-Jewelry).  
 
 
